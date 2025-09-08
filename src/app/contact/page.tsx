@@ -78,7 +78,7 @@ export default function ContactPage() {
                         name="name"
                         value={formData.name}
                         onChange={handleChange}
-                        placeholder="John Doe"
+                        placeholder="Zahra Nosheen"
                         required
                         className="border-input"
                       />
@@ -91,7 +91,7 @@ export default function ContactPage() {
                         type="email"
                         value={formData.email}
                         onChange={handleChange}
-                        placeholder="john@example.com"
+                        placeholder="Zahranosheen786@.gmail"
                         required
                         className="border-input"
                       />
@@ -166,7 +166,7 @@ export default function ContactPage() {
                         <h3 className="font-heading text-lg font-semibold mb-1">Email Us</h3>
                         <p className="text-muted-foreground mb-2">Send us an email anytime</p>
                         <a href="mailto:hello@basit.com" className="text-primary hover:underline">
-                          hello@basit.com
+                          hello@zahra@.com
                         </a>
                       </div>
                     </div>
@@ -183,7 +183,7 @@ export default function ContactPage() {
                         <h3 className="font-heading text-lg font-semibold mb-1">Call Us</h3>
                         <p className="text-muted-foreground mb-2">Mon-Fri from 9am to 6pm</p>
                         <a href="tel:+1234567890" className="text-primary hover:underline">
-                          +1 (234) 567-890
+                          0317-0145512
                         </a>
                       </div>
                     </div>

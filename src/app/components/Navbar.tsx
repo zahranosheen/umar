@@ -15,7 +15,7 @@ export default function Navbar() {
           {/* Logo */}
           <div className="flex-shrink-0">
             <Link href="/" className="font-heading text-2xl font-bold">
-              BASIT
+              Zahra Nosheen
             </Link>
           </div>
 
